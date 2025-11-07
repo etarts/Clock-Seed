@@ -53,7 +53,7 @@ This addon solves that problem by automatically providing time-based seeds that 
 
 ## Finding the Controls
 
-Look for **"Random Seed Generator"** in the Scene Properties panel (the icon that looks like a scene/camera).
+Look for **"Random Seed Generator"** in the Scene Properties panel (the icon that looks like a scene (cone/sphere?)).
 
 ## Tips
 
