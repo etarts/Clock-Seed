@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Random Seed Generator",
-    "author": "Your Name",
+    "author": "Ed Tannenbaum and Claude",
     "version": (1, 0, 0),
     "blender": (3, 0, 0),
     "location": "Scene Properties > Random Seed Generator",
